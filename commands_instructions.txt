@@ -1,0 +1,18 @@
+pip install virtualenv ==> Install virtual environment
+Download and install node.js in your machine
+npm install -g create-react-app  ==> Install react-app package
+
+
+Make two folders
+1) Backend
+2) FrontEnd
+
+virtualenv <ur_env_name> => This will create env folder inside backend
+source env/Scripts/activate => To activate virtualenv
+install django, djangorestframework in ur virtual env 
+django-admin startproject <project_name>
+rename the project_name to src
+
+
+create-react-app <ur_app_name>   ==> Go to frontend folder inside ur project, then run this command, to create ur app(usually, gui)
+
