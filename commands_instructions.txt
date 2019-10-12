@@ -9,6 +9,7 @@ Make two folders
 
 virtualenv <ur_env_name> => This will create env folder inside backend
 source env/Scripts/activate => To activate virtualenv
+or env\Scripts\activate => to activate through windows terminal
 install django, djangorestframework in ur virtual env 
 django-admin startproject <project_name>
 rename the project_name to src
