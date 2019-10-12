@@ -17,3 +17,5 @@ rename the project_name to src
 
 create-react-app <ur_app_name>   ==> Go to frontend folder inside ur project, then run this command, to create ur app(usually, gui)
 
+inside frontend
+npm install antd => to install antd (contains a set of high quality components and demos for building rich, interactive user interfaces)
